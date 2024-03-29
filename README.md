@@ -1,7 +1,7 @@
 # [1조_팀명] 서비스명 _ 테오의 스프린트 17기
 
 <p align="center">
-  <img src="https://github.com/solssak/teoSprint-template/assets/107416133/5ef1229b-ff3f-4016-ae49-ce9047f80f63).png" width="300" height="300"/>
+  이미지(로고)를 추가해주세요
 </p>
 
 <br >
@@ -66,3 +66,10 @@
 ### 디자인
 
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
+
+<br/>
+<br/>
+
+<p align="center">
+  <img src="https://github.com/solssak/teo-sprint-template/assets/107416133/b9616006-c8a2-4a39-a5cb-67d200cb1a84" width="300" height="300"/>
+</p>
