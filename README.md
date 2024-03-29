@@ -70,6 +70,8 @@
 <br/>
 <br/>
 
+- - -
+
 <p align="center">
   <img src="https://github.com/solssak/teo-sprint-template/assets/107416133/b9616006-c8a2-4a39-a5cb-67d200cb1a84" width="300" height="300"/>
 </p>
